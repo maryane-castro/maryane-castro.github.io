@@ -30,25 +30,51 @@
 
 
 ## Pet Projects
-### Construction
-[Publication](https://)
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Spider-Robot  
+[Repository](https://github.com/maryane-castro/Spider-Robot)  
+Designed and developed a **Bluetooth-controlled quadruped robot** using **C++** and Arduino. The robot utilizes servo motors for locomotion and communicates via Bluetooth for remote control. Implemented motion strategies such as forward/backward movement, turns, and custom actions like waving.  
+This project showcases expertise in **embedded systems, robotics, and real-time control**, leveraging **Arduino's Servo and SoftwareSerial libraries** to manage servo coordination and Bluetooth communication.  
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-![Bike Study](/assets/img/bike_study.jpeg)
+<img src="assets/projects/spider-robot.png" alt="Sp" width="400" />
 
 
 
+### Tequila: Image Prediction API with YOLOv5  
+[Repository](https://github.com/maryane-castro/tequila)  
 
-## Talks & Lectures
-- Cosntruction
+Developed an **image classification API** using **YOLOv5** and **Flask** to detect whether an image belongs to the "open" or "closed" class. The API processes images and returns predictions with confidence scores.  
+
+This project integrates **machine learning, deep learning, and cloud deployment** by utilizing **Docker** for containerization and **Azure** for hosting. It also includes a **load testing suite with Locust** to evaluate API performance under different loads.  
+
+- **YOLOv5-based image classification**  
+- **REST API built with Flask**  
+- **Load testing with Locust**  
+- **Dockerized deployment on Azure**  
+
+<img src="assets/projects/tequila.png" alt="API" width="500" />
+
+
+### Image Prediction API with YOLOv5  
+[Repository](https://github.com/maryane-castro/sale)  
+
+Developed an **image classification API** using **Flask** to detect offers in images, leveraging **OCR** and **NLP** techniques. The API processes images and returns predictions with confidence scores for different categories, such as offers and prices.  
+
+This project integrates **machine learning, computer vision, and cloud deployment** by utilizing **Docker** for containerization and **Azure** for hosting. It also includes a **load testing suite with Robot Framework** to evaluate API performance under different loads.  
+
+- **OCR-based offer detection**  
+- **REST API built with Flask**  
+- **Dockerized deployment on AWS**  
+<img src="assets/projects/predeic.jpeg" alt="API" width="300" />
+
+
+Check out more of my projects on [GitHub](https://github.com/maryane-castro).
+
+## Youtube
 - [Machine Learning YouTube](https://youtube.com/@maryanecastrodev?si=epOVWQo6qU5mJ78c)
 
 ## Publications
 1. Moura, R. D., Bessa, J. A., Nunes, A. L. A., & de Castro Lima, M. (2024). STEMulheres: Empoderando a Participação Feminina nas Ciências e Tecnologias. Anais do Computer on the Beach, 15, 378-383.
 
 
+## Blog
 - [My first blog](https://maryane-castro.github.io/blog/)
