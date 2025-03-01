@@ -4,7 +4,7 @@
 [Email](mailto:maryanecastrodev@gmail.com)
 
 
-#### Technical Skills: Python, SQL, AWS, pytorch, tensorflow
+#### Technical Skills: Python, SQL, AWS, pytorch, tensorflow and everything I dedicate myself to.
 
 ## Education
 - B.S., Mechatronics Engineering | Federal Institute of Education, Science, and Technology of Ceará (_Expected 2027_)								       		
