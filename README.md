@@ -1,4 +1,8 @@
 # Machine Learning Developer
+[GitHub](https://github.com/maryane-castro).
+[Linkedin](https://www.linkedin.com/in/maryanecastro/).
+[Email](mailto:maryanecastrodev@gmail.com)
+
 
 #### Technical Skills: Python, SQL, AWS, pytorch, tensorflow
 
