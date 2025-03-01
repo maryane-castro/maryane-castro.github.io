@@ -51,4 +51,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 1. Moura, R. D., Bessa, J. A., Nunes, A. L. A., & de Castro Lima, M. (2024). STEMulheres: Empoderando a Participação Feminina nas Ciências e Tecnologias. Anais do Computer on the Beach, 15, 378-383.
 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [My first blog](https://maryane-castro.github.io/blog/)
