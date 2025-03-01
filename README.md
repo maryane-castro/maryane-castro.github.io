@@ -18,7 +18,7 @@
 - Created custom datasets and developed AI models, language models (LLMs), and Retrieval-Augmented Generation (RAG) models using Hugging Face, PyTorch, and SAM (Segment Anything Model) to optimize specific solutions and improve the performance of applications and systems.
 
 
-**Software Engineer @ IFCE (_January 2023 - December 2023_)**
+**Software/Machine Learning Engineer @ IFCE (_January 2023 - December 2023_)**
 - Developed a digital platform for integration and automation of administrative processes between laboratories using Spring Boot, Python, Flask, and PostgreSQL, increasing document processing speed and internal organization by 50%.
 - Implemented technologies such as React, Redux, and Docker to create intuitive interfaces and faster, more reliable data pipelines.
 - The new solution reduced operational errors by 30% and allowed for the centralization of previously dispersed information, speeding up collaboration between academic and technical teams.
