@@ -71,8 +71,6 @@ This project integrates **machine learning, computer vision, and cloud deploymen
 <img src="assets/projects/predeic.jpeg" alt="API" width="300" />
 
 
-Aqui está a adaptação do seu exemplo para o EducaMEET:  
-
 
 ### EducaMEET  
 [Repository](https://github.com/maryane-castro/educaMEET)  
