@@ -71,6 +71,22 @@ This project integrates **machine learning, computer vision, and cloud deploymen
 <img src="assets/projects/predeic.jpeg" alt="API" width="300" />
 
 
+Aqui está a adaptação do seu exemplo para o EducaMEET:  
+
+
+### EducaMEET  
+[Repository](https://github.com/maryane-castro/educaMEET)  
+EducaMEET is an **online platform** designed to connect educators and students in managing academic events such as lectures, workshops, and extension activities. The platform enables higher education institutions to **promote and efficiently manage events**, making participation more accessible and interactive.  
+
+Students can **search for events, confirm attendance, track their participation history, and obtain certificates**. Additionally, the **event evaluation feature** allows organizers to continuously enhance the participant experience.  
+
+This project showcases expertise in **web development, database management, and user experience**, leveraging modern technologies to build a robust and intuitive solution.  
+
+<img src="assets/projects/educameet.png" alt="EducaMEET" width="400" />  
+
+  
+
+
 Check out more of my projects on [GitHub](https://github.com/maryane-castro).
 
 ## Youtube
