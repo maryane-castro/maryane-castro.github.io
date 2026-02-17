@@ -7,7 +7,10 @@
 #### Technical Skills: Python, SQL, AWS, pytorch, tensorflow and everything I dedicate myself to.
 
 ## Education
-- B.S., Mechatronics Engineering | Federal Institute of Education, Science, and Technology of Ceará (_Expected 2027_)								       		
+- B.S., Mechatronics Engineering | Federal Institute of Education, Science, and Technology of Ceará (_Expected 2027_)	
+
+- Computing, Systems Analysis | Universidade de Fortaleza – UNIFOR (_January 2025_)
+
 - Technical Degree, Information Technology | Federal Institute of Education, Science, and Technology of Ceará (_December 2023_)
 
 ## Work Experience
