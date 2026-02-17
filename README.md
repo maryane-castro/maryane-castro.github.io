@@ -15,7 +15,7 @@
 
 ## Work Experience
 
-**Back-end Developer (Federal Employee) @ Universidade Federal do Ceará (UFC) (_July 2025 – Present_)**
+**Back-end Developer (Federal Employee) @ Federal University of Ceará (UFC), Brazil (_July 2025 – Present_)**
 
 - Act as a Back-end Developer in the Brazilian federal public sector at the Universidade Federal do Ceará (UFC), developing and maintaining institutional systems with a focus on Java.
 - Design and implement RESTful APIs, business rules, and integrations with relational databases, ensuring security, scalability, and code quality.
