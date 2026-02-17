@@ -12,9 +12,9 @@
 
 ## Work Experience
 
-**Back-end Developer (Federal Employee) @ UFC – Universidade Federal do Ceará (_January 2024 – Present_)**
+**Back-end Developer (Federal Employee) @ Universidade Federal do Ceará (UFC) (_July 2025 – Present)**
 
-- Act as a Back-end Developer in the Brazilian federal public sector at the Universidade Federal do Ceará (UFC), developing and maintaining institutional systems with a focus on Java and Spring Boot.
+- Act as a Back-end Developer in the Brazilian federal public sector at the Universidade Federal do Ceará (UFC), developing and maintaining institutional systems with a focus on Java.
 - Design and implement RESTful APIs, business rules, and integrations with relational databases, ensuring security, scalability, and code quality.
 - Work with data engineering and analytics pipelines, supporting institutional decision-making through structured data processing.
 - Integrate Artificial Intelligence and Machine Learning solutions into backend systems, including the use of LLMs, data-driven models, and automation services.
@@ -22,7 +22,7 @@
 
 
 
-**MLOps Developer @ domy (_April 2025 – July 2025)**
+**MLOps Developer @ Domy (_April 2025 – July 2025)**
 
 - Worked remotely as an MLOps Developer, collaborating on the end-to-end lifecycle of Machine Learning models and Generative AI systems.
 - Built, trained, and deployed machine learning models and generative AI solutions, integrating them with backend services.
