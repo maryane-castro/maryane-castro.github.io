@@ -12,13 +12,14 @@
 
 ## Work Experience
 
-**Back-end Developer (Federal Employee) @ IFCE (_January 2024 – Present)**
+**Back-end Developer (Federal Employee) @ UFC – Universidade Federal do Ceará (_January 2024 – Present_)**
 
-- Act as a Back-end Developer in the Brazilian federal public sector, developing and maintaining institutional systems with a focus on Java and Spring Boot.
+- Act as a Back-end Developer in the Brazilian federal public sector at the Universidade Federal do Ceará (UFC), developing and maintaining institutional systems with a focus on Java and Spring Boot.
 - Design and implement RESTful APIs, business rules, and integrations with relational databases, ensuring security, scalability, and code quality.
 - Work with data engineering and analytics pipelines, supporting institutional decision-making through structured data processing.
 - Integrate Artificial Intelligence and Machine Learning solutions into backend systems, including the use of LLMs, data-driven models, and automation services.
 - Contribute to MLOps practices, model integration, and system reliability in production environments.
+
 
 
 **MLOps Developer @ domy (_April 2025 – July 2025)**
