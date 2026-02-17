@@ -11,7 +11,26 @@
 - Technical Degree, Information Technology | Federal Institute of Education, Science, and Technology of Ceará (_December 2023_)
 
 ## Work Experience
-**Machine Learning Developer @ NUVEN (_May 2023 - Present_)**
+
+**Back-end Developer (Federal Employee) @ IFCE (_January 2024 – Present)**
+
+- Act as a Back-end Developer in the Brazilian federal public sector, developing and maintaining institutional systems with a focus on Java and Spring Boot.
+- Design and implement RESTful APIs, business rules, and integrations with relational databases, ensuring security, scalability, and code quality.
+- Work with data engineering and analytics pipelines, supporting institutional decision-making through structured data processing.
+- Integrate Artificial Intelligence and Machine Learning solutions into backend systems, including the use of LLMs, data-driven models, and automation services.
+- Contribute to MLOps practices, model integration, and system reliability in production environments.
+
+
+**MLOps Developer @ domy (_April 2025 – July 2025)**
+
+- Worked remotely as an MLOps Developer, collaborating on the end-to-end lifecycle of Machine Learning models and Generative AI systems.
+- Built, trained, and deployed machine learning models and generative AI solutions, integrating them with backend services.
+- Designed and maintained ML pipelines, model versioning, and deployment workflows, ensuring reproducibility and reliability.
+- Integrated models into production environments using Docker, cloud services, and backend APIs, bridging data, ML, and application layers.
+- Collaborated closely with backend engineers to ensure scalable, secure, and maintainable AI-driven systems.
+
+
+**Machine Learning Developer @ NUVEN (_May 2023 - April 2025)**
 - Developed an automated image detection and analysis system using Python, YOLO for real-time detection, and OpenCV, reducing processing time by 80%. The system, previously manual, now generates over 300 reports per day compared to only 3 before.
 - Created an AI system adaptable to user preferences, integrating personalized recommendations with TensorFlow, Keras, and Llama, increasing customer retention and loyalty by 40%. Structured MLOps pipelines for model training and deployment, utilizing Kubernetes, Docker, and Apache Spark to ensure scalability and automation.
 - Developed advanced computer vision and machine learning solutions, optimizing data pipelines with Apache Spark, Pandas, and Docker for real-time processing, resulting in greater operational efficiency. Used Kubernetes for container orchestration to ensure scalability and flexibility.
@@ -91,7 +110,36 @@ Check out more of my projects on [GitHub](https://github.com/maryane-castro).
 - [Machine Learning YouTube](https://youtube.com/@maryanecastrodev?si=epOVWQo6qU5mJ78c)
 
 ## Publications
-1. Moura, R. D., Bessa, J. A., Nunes, A. L. A., & de Castro Lima, M. (2024). STEMulheres: Empoderando a Participação Feminina nas Ciências e Tecnologias. Anais do Computer on the Beach, 15, 378-383.
+
+1. **Generating Personalized Feedback from Professional Profile Tests Using RAG: A Case Study with MAPER**  
+   *Sociedade Brasileira de Inteligência Artificial (SBIA)*, October 31, 2025.  
+   **DOI:** 10.21528/CBIC2025-1132688  
+   **Authors:** Erik Jhones Freitas do Nascimento; Jessyca A. Bessa; **Maryane C. Lima**; Igor Rafael Silva Valente; Saulo M. Maia; Maria Lúcia Rodrigues Corrêa.
+
+2. **LLaMA for Sentiment Analysis in Self-Care Applications: A Case Study with Life Energy**  
+   *Sociedade Brasileira de Inteligência Artificial (SBIA)*, October 31, 2025.  
+   **DOI:** 10.21528/CBIC2025-1134393  
+   **Authors:** Inácio L. Souza Filho; **Maryane de Castro Lima**; Anderson I. M. Ripardo; Jessyca A. Bessa; Wedja J. G. Costa; Jermana Lopes de Moraes.
+
+3. **Language Model Architectures for Behavioral Assessment: A Case Study on MAPER**  
+   *Intelligent Systems – BRACIS 2025*, First Online: February 8, 2026, pp. 336–348.  
+   **DOI:**
+   **Authors:** Erik J. F. Nascimento; Jessyca A. Bessa; **Maryane C. Lima**; Igor R. S. Valente; Saulo M. Maia; Maria L. R. Corrêa.
+
+4. **STEMulheres: Empoderando a Participação Feminina nas Ciências e Tecnologias**  
+   *Revista Contemporânea*, April 8, 2025.  
+   **DOI:**
+   **Authors:** R. D. Moura; J. A. Bessa; A. L. A. Nunes; **M. de Castro Lima**.
+
+5. **STEMulheres: Empoderando a Participação Feminina nas Ciências e Tecnologias**  
+   *Anais do Computer on the Beach*, vol. 15, pp. 378–383, 2024.  
+   **DOI:**
+   **Authors:** R. D. Moura; J. A. Bessa; A. L. A. Nunes; **M. de Castro Lima**.
+
+6. **Vamos Merendar? Um Aplicativo para Mitigar Desperdício de Merenda Escolar nas Escolas Públicas de Maranguape**  
+   *Anais do XIV Congresso Norte Nordeste de Pesquisa e Inovação (CONNEPI)*, December 8, 2024.  
+   **DOI:**
+   **Authors:** Hosana Clara de Brito Soares Bezerra; **Maryane de Castro Lima**; Thomaz Maia de Almeida; Jessyca Almeida Bessa.
 
 
 ## Blog
