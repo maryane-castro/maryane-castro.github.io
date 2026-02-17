@@ -15,7 +15,7 @@
 
 ## Work Experience
 
-**Back-end Developer (Federal Employee) @ Universidade Federal do Ceará (UFC) (_July 2025 – Present)**
+**Back-end Developer (Federal Employee) @ Universidade Federal do Ceará (UFC) (_July 2025 – Present_)**
 
 - Act as a Back-end Developer in the Brazilian federal public sector at the Universidade Federal do Ceará (UFC), developing and maintaining institutional systems with a focus on Java.
 - Design and implement RESTful APIs, business rules, and integrations with relational databases, ensuring security, scalability, and code quality.
@@ -25,7 +25,7 @@
 
 
 
-**MLOps Developer @ Domy (_April 2025 – July 2025)**
+**MLOps Developer @ Domy (_April 2025 – July 2025_)**
 
 - Worked remotely as an MLOps Developer, collaborating on the end-to-end lifecycle of Machine Learning models and Generative AI systems.
 - Built, trained, and deployed machine learning models and generative AI solutions, integrating them with backend services.
@@ -34,7 +34,7 @@
 - Collaborated closely with backend engineers to ensure scalable, secure, and maintainable AI-driven systems.
 
 
-**Machine Learning Developer @ NUVEN (_May 2023 - April 2025)**
+**Machine Learning Developer @ NUVEN (_May 2023 - April 2025_)**
 - Developed an automated image detection and analysis system using Python, YOLO for real-time detection, and OpenCV, reducing processing time by 80%. The system, previously manual, now generates over 300 reports per day compared to only 3 before.
 - Created an AI system adaptable to user preferences, integrating personalized recommendations with TensorFlow, Keras, and Llama, increasing customer retention and loyalty by 40%. Structured MLOps pipelines for model training and deployment, utilizing Kubernetes, Docker, and Apache Spark to ensure scalability and automation.
 - Developed advanced computer vision and machine learning solutions, optimizing data pipelines with Apache Spark, Pandas, and Docker for real-time processing, resulting in greater operational efficiency. Used Kubernetes for container orchestration to ensure scalability and flexibility.
